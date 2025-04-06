@@ -6,3 +6,11 @@
     color: blue;
     font-size: 36px;
 }
+.bigger {
+    font-size: 24px;
+}
+#number4{
+    background-color: rgb(130, 211, 130);
+    font-size: 24px;
+    font-weight: bold;
+}
