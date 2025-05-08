@@ -28,6 +28,9 @@ img {
   display: flex;
   flex-direction: column;
   gap: 32px;
+  /* Learned about gap: gap property only works between child elements inside a flex or grid container. */
+  /* Could have used margin.
+  Used gap instead for the purpose of flexbox training */
 }
 .title {
   display: flex;
